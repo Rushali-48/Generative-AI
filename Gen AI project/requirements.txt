@@ -1,0 +1,11 @@
+streamlit==1.32.0
+Pillow==10.2.0
+torch==2.1.0
+transformers==4.36.2
+numpy==1.24.3
+tensorflow==2.15.0
+sentencepiece==0.1.99
+accelerate==0.27.2
+google.generativeai
+dotenv
+IPython
